@@ -72,5 +72,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
+    <finalName>devops-integration</finalName>
   </build>
 </project>
